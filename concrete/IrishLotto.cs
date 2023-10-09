@@ -34,8 +34,5 @@ namespace LotteryApp.concrete
 
             return lotto;
         }
-
-       
-
     }
 }
