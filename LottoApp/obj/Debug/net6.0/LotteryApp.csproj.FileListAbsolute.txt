@@ -1,0 +1,14 @@
+C:\Users\filip\OneDrive\Área de Trabalho\C#\models\LottoN\bin\Debug\net6.0\LotteryApp.exe
+C:\Users\filip\OneDrive\Área de Trabalho\C#\models\LottoN\bin\Debug\net6.0\LotteryApp.deps.json
+C:\Users\filip\OneDrive\Área de Trabalho\C#\models\LottoN\bin\Debug\net6.0\LotteryApp.runtimeconfig.json
+C:\Users\filip\OneDrive\Área de Trabalho\C#\models\LottoN\bin\Debug\net6.0\LotteryApp.dll
+C:\Users\filip\OneDrive\Área de Trabalho\C#\models\LottoN\bin\Debug\net6.0\LotteryApp.pdb
+C:\Users\filip\OneDrive\Área de Trabalho\C#\models\LottoN\obj\Debug\net6.0\LotteryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Área de Trabalho\C#\models\LottoN\obj\Debug\net6.0\LotteryApp.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Área de Trabalho\C#\models\LottoN\obj\Debug\net6.0\LotteryApp.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Área de Trabalho\C#\models\LottoN\obj\Debug\net6.0\LotteryApp.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Área de Trabalho\C#\models\LottoN\obj\Debug\net6.0\LotteryApp.dll
+C:\Users\filip\OneDrive\Área de Trabalho\C#\models\LottoN\obj\Debug\net6.0\refint\LotteryApp.dll
+C:\Users\filip\OneDrive\Área de Trabalho\C#\models\LottoN\obj\Debug\net6.0\LotteryApp.pdb
+C:\Users\filip\OneDrive\Área de Trabalho\C#\models\LottoN\obj\Debug\net6.0\LotteryApp.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Área de Trabalho\C#\models\LottoN\obj\Debug\net6.0\ref\LotteryApp.dll
